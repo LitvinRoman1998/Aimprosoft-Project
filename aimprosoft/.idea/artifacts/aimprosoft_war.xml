@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="aimprosoft:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>aimprosoft</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="aimprosoft-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="aimprosoft:war exploded" />
+    </root>
+  </artifact>
+</component>

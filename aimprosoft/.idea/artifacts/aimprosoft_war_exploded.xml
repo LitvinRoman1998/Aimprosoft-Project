@@ -1,0 +1,40 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="aimprosoft:war exploded">
+    <output-path>$PROJECT_DIR$/target/aimprosoft-1.0-SNAPSHOT</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>aimprosoft</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="aimprosoft" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Maven: jdbc:jdbc:4.2" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.6" />
+          <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.4" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.5.4" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.0.1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/aimprosoft-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="aimprosoft/web/Web" />
+    </root>
+  </artifact>
+</component>

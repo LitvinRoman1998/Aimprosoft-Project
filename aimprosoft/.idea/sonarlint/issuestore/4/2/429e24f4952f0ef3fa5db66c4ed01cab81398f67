@@ -1,0 +1,11 @@
+
+€squid:S4087K"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(èå²×8ü¿ÎÁ-
+esquid:S2095%"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ø÷´à8÷ú¾-
+esquid:S2095X"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹8˜ãÅÁ-
+Asquid:S1148+"#Use a logger to log this exception.(Ç’Çê8Ëúİ½-
+Bsquid:S1148ä"#Use a logger to log this exception.(Ç’Çê8¯êÅÜ-
+Asquid:S1148M"#Use a logger to log this exception.(Ç’Çê8ë—Ï¾-
+Asquid:S1148p"#Use a logger to log this exception.(Ç’Çê8Îá ¿-
+esquid:S20956"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹8«©™¾-
+Asquid:S1148<"#Use a logger to log this exception.(Ç’Çê8«©™¾-
+Asquid:S1148^"#Use a logger to log this exception.(Ç’Çê8ùçÄí-

@@ -1,0 +1,12 @@
+
+Isquid:S1989)"&Add a "try/catch" block for "valueOf".(ø´¹şÿÿÿÿ8Ã¶î“-
+usquid:S3776;"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(«ßîòøÿÿÿÿ8óĞêÀ-
+Hsquid:S1989"+Add a "try/catch" block for "sendRedirect".(‰Ø›8“û•À-
+Dsquid:S1989+"&Add a "try/catch" block for "forward".(İ¿¤ş8±¾Ù“-
+Qsquid:S1989".Add a "try/catch" block for "checkParameters".(êÁæüıÿÿÿÿ8ø›ôÀ-
+nsquid:UselessImportCheck	">Remove this unused import 'org.aimprosoft.validate.IValidate'.(‘é»íÿÿÿÿÿ8óĞêÀ-
+ksquid:UselessImportCheck";Remove this unused import 'org.aimprosoft.data.Department'.(ËÛÑ»şÿÿÿÿ8†íõÀ-
+Qsquid:S1989".Add a "try/catch" block for "checkParameters".(êÁæüıÿÿÿÿ8ø›ôÀ-
+Dsquid:S1989+"&Add a "try/catch" block for "forward".(İ¿¤ş8±¾Ù“-
+Isquid:S1989"&Add a "try/catch" block for "valueOf".(ü­ÀÌüÿÿÿÿ8¤ûÜ-
+Isquid:S1989#"&Add a "try/catch" block for "valueOf".(ü­ÀÌüÿÿÿÿ8¤ûÜ-

@@ -1,0 +1,13 @@
+
+esquid:S1192'"GDefine a constant instead of duplicating this literal " FROM " 3 times.(½ËŠè8¨ÒÁ¾-
+Asquid:S1148x"#Use a logger to log this exception.(Ç’Çê8ÀÀÌ½-
+esquid:S2095A"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹8¨ÒÁ¾-
+Asquid:S1148G"#Use a logger to log this exception.(Ç’Çê8¨ÒÁ¾-
+esquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ø÷´à8¼†õ¼-
+Asquid:S11483"#Use a logger to log this exception.(Ç’Çê8íµ¼-
+Asquid:S1148"#Use a logger to log this exception.(Ç’Çê8ÓÀÍ»-
+Asquid:S1148i"#Use a logger to log this exception.(Ç’Çê8œÌÆ½-
+esquid:S1192&"HDefine a constant instead of duplicating this literal "SELECT " 3 times.(ö„®!8¨ÒÁ¾-
+ksquid:S1192("HDefine a constant instead of duplicating this literal " WHERE " 3 times.(«Î‡ëÿÿÿÿÿ8¨ÒÁ¾-
+esquid:S2095-"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹8ÏÈõ¼-
+Asquid:S1148Y"#Use a logger to log this exception.(Ç’Çê8Ğ¬Ê¼-

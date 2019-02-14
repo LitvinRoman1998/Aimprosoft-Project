@@ -1,0 +1,7 @@
+
+^squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8³¹Õá-
+ysquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(Ñ„üÔøÿÿÿÿ8Å…Úá-
+Vsquid:UselessImportCheck	"+Remove this unused import 'java.io.Reader'.(µû¨é8³¹Õá-
+_squid:UselessImportCheck"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8³¹Õá-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(½ñÄŞüÿÿÿÿ8¿¥Îº-
